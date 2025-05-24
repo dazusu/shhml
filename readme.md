@@ -11,7 +11,7 @@ Shh!(ml) is an addon for Windower 4 that detects and filters spam messages in Fi
 - Add commands to allow the threashold and other configuration to be changed within game
 - Add configurable whitelist and blacklist (currently automatic based on spam frequency)
 - Add categories of spam, such as "sellers", "dynamis", "omen" for selective filtering
-    - Presently, anything that's trying to sell you something agressively is blocked
+    - Presently, anything that's trying to sell you something aggressively is blocked
 
 ## Files
 - [`shhml.lua`](shhml.lua) - Main addon file
