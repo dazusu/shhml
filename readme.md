@@ -1,4 +1,8 @@
+<<<<<<< HEAD
 # Shh!(ml) - An intelligent /yell spam filter for Final Fantasy XI using a Naive Bayes (ML) model
+=======
+# Shh!(ml) - An intelligent /yell spam filter for Final Fantasy XI using a Naive Bayes classifier model
+>>>>>>> 3917e2cbee6c1c5ae0d4797d93c67c2f4d94e724
 
 Shh!(ml) is an addon for Windower 4 that detects and filters spam messages in Final Fantasy XI /yell. Particularly useful if you play on Asura.
 
