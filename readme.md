@@ -2,6 +2,10 @@
 
 Shh!(ml) is an addon for Windower 4 that detects and filters spam messages in Final Fantasy XI /yell. Particularly useful if you play on Asura.
 
+## Model Updates
+
+- 27/05/2025 - Updated model to include a spam vocab of 1214834, and ham of 24325.
+
 ## Features
 - Machine learning-based spam detection
 - Filters egregious /yell messages, particularly those from RMT (though messages from legitimate players should get through, even if they are selling things)
